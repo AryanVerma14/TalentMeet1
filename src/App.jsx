@@ -1,3 +1,4 @@
+
 import { useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import {
@@ -23,7 +24,7 @@ import Interviews from "./pages/Interviews";
 import InterviewRoom from "./pages/InterviewRoom";
 import PreJoin from "./pages/PreJoin";
 import CreateInterviewRoom from "./pages/CreateInterviewRoom";
-import JoinInterviewInvite from "./pages/JoinInterviewInvite";
+import JoinInterviewInvite from "./pages/JoinInterviewinvite";
 import InstantInterviewRoom from "./pages/InstantInterviewRoom";
 
 import { auth, db } from "./firebase";
